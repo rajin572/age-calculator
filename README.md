@@ -1,2 +1,2 @@
 # age-calculator
-Live Link: https://rajin572.github.io/age-calculator/
+Live Link: https://age-calculator-12e227.netlify.app/
